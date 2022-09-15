@@ -1,0 +1,1 @@
+docker build . --tag=fly-wordpress-sqlite

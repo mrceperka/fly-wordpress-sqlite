@@ -1,0 +1,1 @@
+docker run --rm --name=fly-wordpress-sqlite --env-file=.env.default -p 8080:80 fly-wordpress-sqlite
